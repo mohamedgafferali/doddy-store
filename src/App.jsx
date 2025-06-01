@@ -1,1 +1,0 @@
-// App component with routing and WhatsApp button
